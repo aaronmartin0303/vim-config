@@ -1,6 +1,6 @@
-# Derek Wyatt's Vim Configuration
+# Aaron Martin's Vim Configuration based on Derek Wyatt's Vim Configuration
 
-Yup... it's a vim configuration.
+I'm starting to root out and replace plug-ins and features I want from my Vim as compared to my screencasting hero.
 
 To install it, do the following:
 
